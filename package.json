@@ -1,0 +1,14 @@
+{
+  "name": "2-26-ex",
+  "version": "1.0.0",
+  "description": "twitterbot walkthroug",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luvneesh",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
